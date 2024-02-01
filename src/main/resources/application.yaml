@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: paulo
+  datasource:
+    url: jdbc:h2:mem:akross
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: 'create-drop'
+
+server:
+  error:
+    include-stacktrace: NEVER
