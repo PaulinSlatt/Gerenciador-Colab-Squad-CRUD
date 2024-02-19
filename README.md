@@ -1,5 +1,4 @@
-# desafio-akross
-
+# Gerenciamento de Colaboradores e squads
 ---
 
 Desafio tecnico para a empresa Akross.
