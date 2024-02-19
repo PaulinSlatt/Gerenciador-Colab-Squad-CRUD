@@ -1,7 +1,7 @@
 # Gerenciamento de Colaboradores e squads
 ---
 
-Desafio tecnico para a empresa Akross.
+
 
 **Swagger UI para fazer requisicoes:**
 
